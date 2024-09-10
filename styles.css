@@ -1,0 +1,33 @@
+/* body styling */
+body {
+    background-color: #5b2a5f;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    padding: 20px;
+  }
+  
+  /* canvas styling */
+  canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: #e1bce2;
+    border: 1px solid #300629;
+    border-radius: 12px;
+  }
+  
+  #subtitle {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  /* 현재점수 */
+  #score {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
